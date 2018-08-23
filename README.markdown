@@ -1,3 +1,8 @@
+# 修改
++ 添加了Test.csv文件
++ 修改main.m，将delimiter改为TAB
++ 在main.m中每一行用一个OrderedDictionary表示
+
 # CHCSVParser
 
 `CHCSVParser` is an Objective-C parser for CSV files.
